@@ -1,6 +1,6 @@
  {
     "estados": [{
-            "siglas": "AGS",
+            "siglas": "Aguascalientes",
             "nombre": "Aguascalientes",
             "ciudades": [
                 "Aguascalientes",
@@ -16,7 +16,7 @@
             ]
         },
         {
-            "siglas": "BJC",
+            "siglas": "Baja California",
             "nombre": "Baja California",
             "ciudades": [
                 "Ensenada",
@@ -27,7 +27,7 @@
             ]
         },
         {
-            "siglas": "BCS",
+            "siglas": "Baja California Sur",
             "nombre": "Baja California Sur",
             "ciudades": [
                 "Comondú",
