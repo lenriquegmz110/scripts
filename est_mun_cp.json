@@ -19,6 +19,56 @@
                 }
             ]
         },
-        // Agrega más estados y ciudades según sea necesario
+        {
+            "siglas": "CDMX",
+            "nombre": "Ciudad de México",
+            "ciudades": [
+                {
+                    "nombre": "Ciudad de México",
+                    "colonias": [
+                        {
+                            "nombre": "Colonia 3",
+                            "codigo_postal": "67890"
+                        },
+                        {
+                            "nombre": "Colonia 4",
+                            "codigo_postal": "98765"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "siglas": "NL",
+            "nombre": "Nuevo León",
+            "ciudades": [
+                {
+                    "nombre": "Monterrey",
+                    "colonias": [
+                        {
+                            "nombre": "Colonia 5",
+                            "codigo_postal": "13579"
+                        },
+                        {
+                            "nombre": "Colonia 6",
+                            "codigo_postal": "24680"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "San Pedro Garza García",
+                    "colonias": [
+                        {
+                            "nombre": "Colonia 7",
+                            "codigo_postal": "11223"
+                        },
+                        {
+                            "nombre": "Colonia 8",
+                            "codigo_postal": "33445"
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }
