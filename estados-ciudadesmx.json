@@ -1,6 +1,6 @@
  {
     "estados": [{
-            "siglas": "Aguascalientes",
+            "siglas": "AG",
             "nombre": "Aguascalientes",
             "ciudades": [
                 "Aguascalientes",
@@ -16,7 +16,7 @@
             ]
         },
         {
-            "siglas": "Baja California",
+            "siglas": "BC",
             "nombre": "Baja California",
             "ciudades": [
                 "Ensenada",
@@ -27,7 +27,7 @@
             ]
         },
         {
-            "siglas": "Baja California Sur",
+            "siglas": "BS",
             "nombre": "Baja California Sur",
             "ciudades": [
                 "Comondú",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "siglas": "Campeche",
+            "siglas": "CM",
             "nombre": "Campeche",
             "ciudades": [
                 "Calkiní",
@@ -55,7 +55,7 @@
             ]
         },
         {
-            "siglas": "Chiapas",
+            "siglas": "CS",
             "nombre": "Chiapas",
             "ciudades": [
                 "Acacoyagua",
@@ -183,7 +183,7 @@
             ]
         },
         {
-            "siglas": "Chihuahua",
+            "siglas": "CH",
             "nombre": "Chihuahua",
             "ciudades": [
                 "Ahumada",
@@ -255,7 +255,7 @@
             ]
         },
         {
-            "siglas": "Coahuila",
+            "siglas": "CO",
             "nombre": "Coahuila",
             "ciudades": [
                 "Abasolo",
@@ -300,7 +300,7 @@
             ]
         },
         {
-            "siglas": "Colima",
+            "siglas": "CL",
             "nombre": "Colima",
             "ciudades": [
                 "Armería",
@@ -316,7 +316,7 @@
             ]
         },
         {
-            "siglas": "Durango",
+            "siglas": "DG",
             "nombre": "Durango",
             "ciudades": [
                 "Canatlán",
@@ -360,7 +360,7 @@
             ]
         },
         {
-            "siglas": "CDMX",
+            "siglas": "DF",
             "nombre": "CDMX",
             "ciudades": [
                 "Álvaro Obregón",
@@ -382,7 +382,7 @@
             ]
         },
         {
-            "siglas": "Guanajuato",
+            "siglas": "GT",
             "nombre": "Guanajuato",
             "ciudades": [
                 "Abasolo",
@@ -435,7 +435,7 @@
             ]
         },
         {
-            "siglas": "Guerrero",
+            "siglas": "GR",
             "nombre": "Guerrero",
             "ciudades": [
                 "Acapulco de Juárez",
@@ -522,7 +522,7 @@
             ]
         },
         {
-            "siglas": "Hidalgo",
+            "siglas": "HG",
             "nombre": "Hidalgo",
             "ciudades": [
                 "Acatlán",
@@ -612,7 +612,7 @@
             ]
         },
         {
-            "siglas": "Jalisco",
+            "siglas": "JA",
             "nombre": "Jalisco",
             "ciudades": [
                 "Acatic",
@@ -743,7 +743,7 @@
             ]
         },
         {
-            "siglas": "Mexico",
+            "siglas": "MX",
             "nombre": "Estado de México",
             "ciudades": [
                 "Acambay de Ruiz Castañeda",
@@ -874,7 +874,7 @@
             ]
         },
         {
-            "siglas": "Michoacan",
+            "siglas": "MI",
             "nombre": "Michoacán",
             "ciudades": [
                 "Acuitzio",
@@ -993,7 +993,7 @@
             ]
         },
         {
-            "siglas": "Morelos",
+            "siglas": "MO",
             "nombre": "Morelos",
             "ciudades": [
                 "Amacuzac",
@@ -1032,7 +1032,7 @@
             ]
         },
         {
-            "siglas": "Nayarit",
+            "siglas": "NA",
             "nombre": "Nayarit",
             "ciudades": [
                 "Acaponeta",
@@ -1058,7 +1058,7 @@
             ]
         },
         {
-            "siglas": "Nuevo Leon",
+            "siglas": "NL",
             "nombre": "Nuevo León",
             "ciudades": [
                 "Abasolo",
@@ -1115,7 +1115,7 @@
             ]
         },
         {
-            "siglas": "Oaxaca",
+            "siglas": "OA",
             "nombre": "Oaxaca",
             "ciudades": [
                 "Abejones",
@@ -1692,7 +1692,7 @@
             ]
         },
         {
-            "siglas": "Puebla",
+            "siglas": "PU",
             "nombre": "Puebla",
             "ciudades": [
                 "Acajete",
@@ -1915,7 +1915,7 @@
             ]
         },
         {
-            "siglas": "Queretaro",
+            "siglas": "QT",
             "nombre": "Quéretaro",
             "ciudades": [
                 "Amealco de Bonfil",
@@ -1939,7 +1939,7 @@
             ]
         },
         {
-            "siglas": "Quintana Roo",
+            "siglas": "QR",
             "nombre": "Quintana Roo",
             "ciudades": [
                 "Cozumel",
@@ -1955,7 +1955,7 @@
             ]
         },
         {
-            "siglas": "San Luis Potosi",
+            "siglas": "SL",
             "nombre": "San Luis Potosí",
             "ciudades": [
                 "Ahualulco",
@@ -2019,7 +2019,7 @@
             ]
         },
         {
-            "siglas": "Sinaloa",
+            "siglas": "SI",
             "nombre": "Sinaloa",
             "ciudades": [
                 "Ahome",
@@ -2043,7 +2043,7 @@
             ]
         },
         {
-            "siglas": "Tabasco",
+            "siglas": "TB",
             "nombre": "Tabasco",
             "ciudades": [
                 "Balancán",
@@ -2066,7 +2066,7 @@
             ]
         },
         {
-            "siglas": "Tlaxcala",
+            "siglas": "TL",
             "nombre": "Tlaxcala",
             "ciudades": [
                 "Amaxac de Guerrero",
@@ -2132,7 +2132,7 @@
             ]
         },
         {
-            "siglas": "Veracruz",
+            "siglas": "VE",
             "nombre": "Veracruz",
             "ciudades": [
                 "Acajete",
@@ -2350,7 +2350,7 @@
             ]
         },
         {
-            "siglas": "Yucatan",
+            "siglas": "YU",
             "nombre": "Yucatán",
             "ciudades": [
                 "Abalá",
@@ -2462,7 +2462,7 @@
             ]
         },
         {
-            "siglas": "Zacatecas",
+            "siglas": "ZA",
             "nombre": "Zacatecas",
             "ciudades": [
                 "Apozol",
