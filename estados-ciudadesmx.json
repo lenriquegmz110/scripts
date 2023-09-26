@@ -2042,30 +2042,7 @@
                 "Navolato"
             ]
         },
-        {
-            "siglas": "TB",
-            "nombre": "Tabasco",
-            "ciudades": [
-                "Balancán",
-                "Cárdenas",
-                "Jalpa de Méndez",
-                "Jonuta",
-                "Centla",
-                "Macuspana",
-                "Centro",
-                "Nacajuca",
-                "Comalcalco",
-                "Paraíso",
-                "Cunduacán",
-                "Tacotalpa",
-                "Emiliano Zapata",
-                "Teapa",
-                "Huimanguillo",
-                "Tenosique",
-                "Jalapa"
-            ]
-        },
-        {
+     {
     "siglas": "SON",
     "nombre": "Sonora",
     "ciudades": [
@@ -2163,6 +2140,29 @@
         "Yécora"
     ]
 },
+        {
+            "siglas": "TB",
+            "nombre": "Tabasco",
+            "ciudades": [
+                "Balancán",
+                "Cárdenas",
+                "Jalpa de Méndez",
+                "Jonuta",
+                "Centla",
+                "Macuspana",
+                "Centro",
+                "Nacajuca",
+                "Comalcalco",
+                "Paraíso",
+                "Cunduacán",
+                "Tacotalpa",
+                "Emiliano Zapata",
+                "Teapa",
+                "Huimanguillo",
+                "Tenosique",
+                "Jalapa"
+            ]
+        },
         {
             "siglas": "TL",
             "nombre": "Tlaxcala",
