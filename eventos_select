@@ -7,5 +7,15 @@
     {"valor": "p_comunion", "etiqueta": "Primera Comunión"},
     {"valor": "xv_anos", "etiqueta": "XV años"},
     {"valor": "otras_ceremonias", "etiqueta": "Otras celebraciones religiosas"}
-  ]
+  ],
+    "opciones2": [
+    {"valor": "aniversario", "etiqueta": "Aniversario"},
+    {"valor": "open_house", "etiqueta": "Open House"},
+    {"valor": "fiesta", "etiqueta": "Fiesta/Reunión"},
+    {"valor": "fiesta_ninos", "etiqueta": "Fiesta Infantil"},
+    {"valor": "cumple", "etiqueta": "Cumpleaños"},
+    {"valor": "despedida", "etiqueta": "Despedida"},
+    {"valor": "otros", "etiqueta": "Otros"}
+    {"valor": "mascota", "etiqueta": "Mascota"}
+  ],
 }
