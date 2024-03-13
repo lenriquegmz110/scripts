@@ -15,7 +15,7 @@
     {"valor": "fiesta_ninos", "etiqueta": "Fiesta Infantil"},
     {"valor": "cumple", "etiqueta": "Cumpleaños"},
     {"valor": "despedida", "etiqueta": "Despedida"},
-    {"valor": "otros", "etiqueta": "Otros"}
+    {"valor": "otros", "etiqueta": "Otros"},
     {"valor": "mascota", "etiqueta": "Mascota"}
   ],
 }
