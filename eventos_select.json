@@ -1,7 +1,21 @@
 {
   "eventos": [
-    {"valor": "boda", "etiqueta": "Boda"},
-    {"valor": "babyshower", "etiqueta": "Baby Shower"},
+    {
+      "valor": "boda",
+      "etiqueta": "Boda",
+      "selects": [
+        {"identificador": "novio", "opciones": ["Novio", "Novia"]}
+        {"identificador": "novia", "opciones": ["Novio", "Novia"]}
+      ]
+    },
+    {
+      "valor": "babyshower",
+      "etiqueta": "Baby Shower",
+      "selects": [
+        {"identificador": "papa", "opciones": ["Papá", "Mamá"]}
+        {"identificador": "mama", "opciones": ["Papá", "Mamá"]}
+      ]
+    },
     {"valor": "bautizo", "etiqueta": "Bautizo"},
     {"valor": "confirmacion", "etiqueta": "Confirmación"},
     {"valor": "p_comunion", "etiqueta": "Primera Comunión"},
@@ -9,13 +23,59 @@
     {"valor": "otras_ceremonias", "etiqueta": "Otras celebraciones religiosas"}
   ],
   "ocasiones": [
-    {"valor": "aniversario", "etiqueta": "Aniversario"},
-    {"valor": "open_house", "etiqueta": "Open House"},
-    {"valor": "fiesta", "etiqueta": "Fiesta/Reunión"},
-    {"valor": "fiesta_ninos", "etiqueta": "Fiesta Infantil"},
-    {"valor": "cumple", "etiqueta": "Cumpleaños"},
-    {"valor": "despedida", "etiqueta": "Despedida"},
-    {"valor": "otros", "etiqueta": "Otros"},
-    {"valor": "mascota", "etiqueta": "Mascota"}
+    {
+      "valor": "aniversario",
+      "etiqueta": "Aniversario",
+      "selects": [
+        {"identificador": "organizador", "opciones": ["Organizador, "Festejado"]},
+      ]
+    },
+    {
+      "valor": "open_house",
+      "etiqueta": "Open House",
+      "selects": [
+        {"identificador": "organizador", "opciones": ["Organizador, "Festejado"]},
+      ]
+    },
+    {
+      "valor": "fiesta",
+      "etiqueta": "Fiesta/Reunión",
+      "selects": [
+        {"identificador": "organizador", "opciones": ["Organizador, "Festejado"]},
+      ]
+    },
+    {
+      "valor": "fiesta_ninos",
+      "etiqueta": "Fiesta Infantil",
+      "selects": [
+        {"identificador": "organizador", "opciones": ["Organizador, "Festejado"]},
+      ]
+    },
+    {
+      "valor": "cumple",
+      "etiqueta": "Cumpleaños",
+      "selects": [
+        {"identificador": "organizador", "opciones": ["Organizador, "Festejado"]},
+      ]
+    },
+    {
+      "valor": "despedida",
+      "etiqueta": "Despedida",
+      "selects": [
+        {"identificador": "organizador", "opciones": ["Organizador, "Festejado"]},
+      ]
+    },
+    {"valor": "otros", 
+      "etiqueta": "Otros",
+      "selects":[       
+        {"identificador": "organizador", "opciones": ["Organizador, "Festejado"]},
+      ]
+    },
+    {"valor": "mascota",
+      "etiqueta": "Mascota",
+    "selects":[
+      {"identificador": "organizador", "opciones": ["Organizador, "Festejado"]},
+    ]
+    }
   ]
 }
