@@ -1,57 +1,11 @@
 {
-  "campos": [
-    {
-      "id": "eventos",
-      "label": "Evento:",
-      "tipo": "select",
-      "opciones": [
-        {"valor": "boda", "etiqueta": "Boda"},
-        {"valor": "babyshower", "etiqueta": "Baby Shower"},
-        {"valor": "bautizo", "etiqueta": "Bautizo"},
-        {"valor": "confirmacion", "etiqueta": "Confirmación"},
-        {"valor": "p_comunion", "etiqueta": "Primera Comunión"},
-        {"valor": "xv_anos", "etiqueta": "XV años"},
-        {"valor": "otras_ceremonias", "etiqueta": "Otras celebraciones religiosas"}
-      ]
-    },
-    {
-      "id": "rol",
-      "label": "Rol:",
-      "tipo": "select",
-      "opciones": [
-        {"valor": "novia", "etiqueta": "Novia"},
-        {"valor": "novio", "etiqueta": "Novio"}
-      ]
-    },
-    {
-      "id": "nombre",
-      "label": "Nombre:",
-      "tipo": "text"
-    },
-    {
-      "id": "apellido_paterno",
-      "label": "Apellido Paterno:",
-      "tipo": "text"
-    },
-    {
-      "id": "apellido_materno",
-      "label": "Apellido Materno:",
-      "tipo": "text"
-    },
-    {
-      "id": "alias",
-      "label": "Alias:",
-      "tipo": "text"
-    },
-    {
-      "id": "fecha_nacimiento",
-      "label": "Fecha de Nacimiento:",
-      "tipo": "date"
-    },
-    {
-      "id": "celular",
-      "label": "Celular:",
-      "tipo": "tel"
-    }
+    "opciones": [
+    {"valor": "boda", "etiqueta": "Boda"},
+    {"valor": "babyshower", "etiqueta": "Baby Shower"},
+    {"valor": "bautizo", "etiqueta": "Bautizo"},
+    {"valor": "confirmacion", "etiqueta": "Confirmación"},
+    {"valor": "p_comunion", "etiqueta": "Primera Comunión"},
+    {"valor": "xv_anos", "etiqueta": "XV años"},
+    {"valor": "otras_ceremonias", "etiqueta": "Otras celebraciones religiosas"}
   ]
 }
