@@ -1,5 +1,5 @@
 {
-    "opciones": [
+    "eventos": [
     {"valor": "boda", "etiqueta": "Boda"},
     {"valor": "babyshower", "etiqueta": "Baby Shower"},
     {"valor": "bautizo", "etiqueta": "Bautizo"},
@@ -8,7 +8,7 @@
     {"valor": "xv_anos", "etiqueta": "XV años"},
     {"valor": "otras_ceremonias", "etiqueta": "Otras celebraciones religiosas"}
   ],
-    "opciones2": [
+    "ocasiones": [
     {"valor": "aniversario", "etiqueta": "Aniversario"},
     {"valor": "open_house", "etiqueta": "Open House"},
     {"valor": "fiesta", "etiqueta": "Fiesta/Reunión"},
