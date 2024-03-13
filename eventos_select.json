@@ -4,7 +4,7 @@
       "valor": "boda",
       "etiqueta": "Boda",
       "selects": [
-        {"identificador": "novio", "opciones": ["Novio", "Novia"]}
+        {"identificador": "novio", "opciones": ["Novio", "Novia"]},
         {"identificador": "novia", "opciones": ["Novio", "Novia"]}
       ]
     },
@@ -12,7 +12,7 @@
       "valor": "babyshower",
       "etiqueta": "Baby Shower",
       "selects": [
-        {"identificador": "papa", "opciones": ["Papá", "Mamá"]}
+        {"identificador": "papa", "opciones": ["Papá", "Mamá"]},
         {"identificador": "mama", "opciones": ["Papá", "Mamá"]}
       ]
     },
@@ -27,55 +27,55 @@
       "valor": "aniversario",
       "etiqueta": "Aniversario",
       "selects": [
-        {"identificador": "organizador", "opciones": ["Organizador, "Festejado"]},
+        {"identificador": "organizador", "opciones": ["Organizador", "Festejado"]}
       ]
     },
     {
       "valor": "open_house",
       "etiqueta": "Open House",
       "selects": [
-        {"identificador": "organizador", "opciones": ["Organizador, "Festejado"]},
+        {"identificador": "organizador", "opciones": ["Organizador", "Festejado"]}
       ]
     },
     {
       "valor": "fiesta",
       "etiqueta": "Fiesta/Reunión",
       "selects": [
-        {"identificador": "organizador", "opciones": ["Organizador, "Festejado"]},
+        {"identificador": "organizador", "opciones": ["Organizador", "Festejado"]}
       ]
     },
     {
       "valor": "fiesta_ninos",
       "etiqueta": "Fiesta Infantil",
       "selects": [
-        {"identificador": "organizador", "opciones": ["Organizador, "Festejado"]},
+        {"identificador": "organizador", "opciones": ["Organizador", "Festejado"]}
       ]
     },
     {
       "valor": "cumple",
       "etiqueta": "Cumpleaños",
       "selects": [
-        {"identificador": "organizador", "opciones": ["Organizador, "Festejado"]},
+        {"identificador": "organizador", "opciones": ["Organizador", "Festejado"]}
       ]
     },
     {
       "valor": "despedida",
       "etiqueta": "Despedida",
       "selects": [
-        {"identificador": "organizador", "opciones": ["Organizador, "Festejado"]},
+        {"identificador": "organizador", "opciones": ["Organizador", "Festejado"]}
       ]
     },
     {"valor": "otros", 
       "etiqueta": "Otros",
       "selects":[       
-        {"identificador": "organizador", "opciones": ["Organizador, "Festejado"]},
+        {"identificador": "organizador", "opciones": ["Organizador", "Festejado"]}
       ]
     },
     {"valor": "mascota",
       "etiqueta": "Mascota",
-    "selects":[
-      {"identificador": "organizador", "opciones": ["Organizador, "Festejado"]},
-    ]
+      "selects":[
+        {"identificador": "organizador", "opciones": ["Organizador", "Festejado"]}
+      ]
     }
   ]
 }
