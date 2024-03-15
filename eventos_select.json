@@ -16,11 +16,7 @@
         {"identificador": "mama", "opciones": ["Papá", "Mamá"]}
       ]
     },
-    {"valor": "bautizo", "etiqueta": "Bautizo"},
-    {"valor": "confirmacion", "etiqueta": "Confirmación"},
-    {"valor": "p_comunion", "etiqueta": "Primera Comunión"},
-    {"valor": "xv_anos", "etiqueta": "XV años"},
-    {"valor": "otras_ceremonias", "etiqueta": "Otras celebraciones religiosas"}
+    {"valor": "xv_anos", "etiqueta": "XV años"}
   ],
   "ocasiones": [
     {
@@ -38,29 +34,8 @@
       ]
     },
     {
-      "valor": "fiesta",
-      "etiqueta": "Fiesta/Reunión",
-      "selects": [
-        {"identificador": "organizador", "opciones": ["Organizador", "Festejado"]}
-      ]
-    },
-    {
-      "valor": "fiesta_ninos",
-      "etiqueta": "Fiesta Infantil",
-      "selects": [
-        {"identificador": "organizador", "opciones": ["Organizador", "Festejado"]}
-      ]
-    },
-    {
       "valor": "cumple",
       "etiqueta": "Cumpleaños",
-      "selects": [
-        {"identificador": "organizador", "opciones": ["Organizador", "Festejado"]}
-      ]
-    },
-    {
-      "valor": "despedida",
-      "etiqueta": "Despedida",
       "selects": [
         {"identificador": "organizador", "opciones": ["Organizador", "Festejado"]}
       ]
@@ -70,11 +45,7 @@
       "selects":[       
         {"identificador": "organizador", "opciones": ["Organizador", "Festejado"]}
       ]
-    },
-    {"valor": "mascota",
-      "etiqueta": "Mascota",
-      "selects":[
-        {"identificador": "organizador", "opciones": ["Organizador", "Festejado"]}
+    }
       ]
     }
   ]
